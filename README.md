@@ -1,8 +1,11 @@
-# DSO7 - Data Science with Python: Support Vector Machine
+# DSO6 - Data Science with Python: Support Vector Machine
 
-Welcome to our 7th workshop in ***Data Science with Python*** series!
+Welcome to our 6th workshop in ***Data Science with Python*** series!
 
 >***Author***: Tania Turdean, Science Executive, UCL Data Science Society (tania.turdean.19@ucl.ac.uk)<br/>
+
+>***Updated by***: Philip Wilkinson, Head of Science (21/22), UCL Data Science Society (philip.wilkinson.19@ucl.ac.uk)
+
 >***Proudly presented by the UCL Data Science Society***
 
 ## Software prerequisite
